@@ -1,5 +1,4 @@
 # markov-chain-sentence-gen
-
 # Markov Chain Sentence Generator.
 # Include shitposting capabilities.
 # Include greentext capabilities.
